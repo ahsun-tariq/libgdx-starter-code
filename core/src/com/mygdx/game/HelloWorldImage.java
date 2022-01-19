@@ -14,8 +14,8 @@ public class HelloWorldImage extends Game{
     private SpriteBatch batch;
 
     public void create()
-    {
-        FileHandle worldFile = Gdx.files.internal("world.png");
+    {        FileHandle worldFile = Gdx.files.internal("world.jpeg");
+
         texture = new Texture(worldFile);
         batch = new SpriteBatch();
     }
