@@ -26,6 +26,7 @@ public class HelloWorldImage extends Game{
 
         batch.begin();
         batch.draw(texture, 192,112);
+
         batch.end();
     }
 
