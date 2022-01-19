@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gdx-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/gdx-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/gdx-sample.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/gdx-sample.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/gdx-sample.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/gdx-sample.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/gdx-sample.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/gdx-sample.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/html/gdx-sample.html.iml" filepath="$PROJECT_DIR$/.idea/modules/html/gdx-sample.html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/gdx-sample.ios.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/gdx-sample.ios.iml" />
+    </modules>
+  </component>
+</project>

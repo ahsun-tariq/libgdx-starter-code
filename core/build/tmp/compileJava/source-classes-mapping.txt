@@ -1,0 +1,2 @@
+com/mygdx/game/HelloWorldImage.java
+ com.mygdx.game.HelloWorldImage
